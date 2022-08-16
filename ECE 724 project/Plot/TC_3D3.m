@@ -1,0 +1,1 @@
+plot(Torque_curve_speed_3D3,Torque_curve_torque_3D3);
